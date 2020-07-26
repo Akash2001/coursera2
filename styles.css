@@ -1,0 +1,38 @@
+.row{
+	background-color: yellow;
+	}
+
+#mennu{
+	background-color: yellow;
+	width: 100%;
+	left: 0px;
+}
+
+.navbar{
+	right: 0px;
+	width: 100%;
+	margin: 0px;
+	padding: 25px;
+	background-color: yellow;
+}
+.container-fluid{
+	background-color: yellow;
+
+}
+
+#main-box{
+	max-width: 94%;
+	background-color: green;
+	margin: 25px auto 25px;
+	
+}
+
+.navbar-nav{
+	background-color: grey;
+
+}
+
+h2{
+	padding: 25px;
+}
+
